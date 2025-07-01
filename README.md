@@ -1,5 +1,3 @@
-# non-edible-food-dashboard
-
 # D2L-GoodHood.SG
 
 ## Frontend Tech Stack Analysis & Feature Description
